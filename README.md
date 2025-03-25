@@ -1,7 +1,5 @@
 # EXAMEYE
 
-# EXAMEYE
-
 ## 📌 Overview
 **EXAMEYE** is an AI-powered offline cheating detection system for exams using **YOLO-based object and behavior recognition**.
 
